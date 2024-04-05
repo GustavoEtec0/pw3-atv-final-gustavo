@@ -1,0 +1,15 @@
+.form_control {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.form_control label {
+    padding: 0.7rem;
+    border-radius: 0;
+    border: none;
+}
+
+.form_control input ::placeholder {
+    color: #7b7b7b;
+}
