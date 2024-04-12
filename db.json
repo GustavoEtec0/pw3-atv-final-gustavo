@@ -1,16 +1,42 @@
 {
-    "turmas": [
-        {
-            "id": "1",
-            "sigla": "1ºDS"
-        },
-        {
-            "id": "2",
-            "sigla": "2ºDS"
-        },
-        {
-            "id": "3",
-            "sigla": "3ºDS"
-        }
-    ]
+  "turmas": [
+    {
+      "id": "8e2f",
+      "turma": "turma 1",
+      "sigla": {
+        "id": "3",
+        "sigla": "3ºDS"
+      }
+    },
+    {
+      "id": "8e2f",
+      "turma": "turma 2",
+      "sigla": {
+        "id": "1",
+        "sigla": "1ºDS"
+      }
+    },
+    {
+      "id": "e9a4",
+      "turma": "turma 3",
+      "sigla": {
+        "id": "2",
+        "sigla": "2ºDS"
+      }
+    }
+  ],
+  "siglas": [
+    {
+      "id": "1",
+      "sigla": "1ºDS"
+    },
+    {
+      "id": "2",
+      "sigla": "2ºDS"
+    },
+    {
+      "id": "3",
+      "sigla": "3ºDS"
+    }
+  ]
 }
