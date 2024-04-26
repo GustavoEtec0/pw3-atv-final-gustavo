@@ -1,14 +1,7 @@
-import React from "react";
-import "./Select.css";
+import React from 'react'
+import './Select.css'
 
-export default function Select({
-  text,
-  name,
-  option,
-  placeholder,
-  handlerOnChange,
-  value,
-}) {
+export default function Select({ text, name, option, handlerOnChange }) {
   return (
     <div className="form_control">
       <label htmlFor={name}>{text}</label>
@@ -21,5 +14,5 @@ export default function Select({
         ))}
       </select>
     </div>
-  );
+  )
 }

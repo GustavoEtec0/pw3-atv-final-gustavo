@@ -1,0 +1,25 @@
+.nova_turma_container {
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4em;
+    background-color: white;
+}
+
+.nova_turma_container h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.5em;
+}
+
+.nova_turma_container h1 span {
+    color: #7733ff;
+    padding: 0 0.2em;
+}
+
+.nova_turma_container img {
+    width: 350px;
+    margin: 2em 0;
+}

@@ -1,12 +1,12 @@
 * {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 html,
 body,
 #root {
-  background-color: #eee;
-  height: 100vh;
+    background-color: #eee;
+    height: 100vh;
 }
