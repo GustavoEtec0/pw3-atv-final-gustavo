@@ -2,10 +2,10 @@
   "turmas": [
     {
       "id": "8e2f",
-      "turma": "turma 1",
+      "turma": "turma 1 ",
       "sigla": {
-        "id": "3",
-        "sigla": "3ºDS"
+        "id": "1",
+        "sigla": "1ºDS"
       }
     },
     {
@@ -14,14 +14,6 @@
       "sigla": {
         "id": "1",
         "sigla": "1ºDS"
-      }
-    },
-    {
-      "id": "e9a4",
-      "turma": "turma 3",
-      "sigla": {
-        "id": "2",
-        "sigla": "2ºDS"
       }
     }
   ],
